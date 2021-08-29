@@ -8,7 +8,7 @@ Machine learning was used to assess credit card risk and then the models were co
 
 The results for the RandomOverSampler:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/ROS.PNG
+![ROS.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/ROS.PNG)
 
 The results for the SMOTE algorithm:
 
