@@ -12,23 +12,23 @@ The results for the RandomOverSampler:
 
 The results for the SMOTE algorithm:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/SMOTE.PNG
+![SMOTE.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/SMOTE.PNG)
 
 The results for the ClusterCentroids algorithm:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/CLUSTER.PNG
+![CLUSTER.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/CLUSTER.PNG)
 
 The results for the SMOTEENN algorithm:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/UNDER.PNG
+![SMOTEENN.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/UNDER.PNG)
 
 The results for the BalancedRandomForestClassifier algorithm:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/BRFC.PNG
+![BRFC.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/BRFC.PNG)
 
 The results for the  EasyEnsembleClassifier algorithm:
 
-https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/BOOST.PNG
+![BOOST.PNG](https://github.com/crabrandoom/Credit_Risk_Analysis/blob/main/BOOST.PNG)
 
 ## Summary
 
