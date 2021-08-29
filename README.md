@@ -32,5 +32,7 @@ The results for the  EasyEnsembleClassifier algorithm:
 
 ## Summary
 
-The best model used in this analysis was the EasyEnsemble classified with and Accuracy of 0.942 and an F1 score of .14 for the high risk category. In the case of credit risk detection it is better to include more false positives in order to make sure all that all true positives are flagged. The sensitivity, or recall, of this model was the best out of all of the models with a score of .91 for high risk cases. This ensures that while some may be falsely flagged as high risk, the overall majority of the actual high risks cases are flagged.
+The best model used in this analysis was the EasyEnsemble classified with and Accuracy of 0.942 and an F1 score of .14 for the high risk category.
+
+In the case of credit risk detection it is better to include more false positives in order to make sure all that all true positives are flagged. The sensitivity, or recall, of this model was the best out of all of the models with a score of .91 for high risk cases. This ensures that while some may be falsely flagged as high risk, the overall majority of the actual high risks cases are flagged and is also the reason that I would recommend this model for the analysis.
 
