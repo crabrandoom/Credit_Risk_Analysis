@@ -1,4 +1,4 @@
-#Credit Risk Analysis
+# Credit Risk Analysis
 
 ## Overview
 Machine learning was used to assess credit card risk and then the models were compared to each other . Given that credit risk is an inherently unbalanced classification problem multiple different techniques to train and evaluate models were used. The models performance was evaluated to assess whether these models should be used to predict credit risk.
